@@ -1,3 +1,3 @@
-def parrott (phrase," " = "Squak!")
+def parrot (phrase," " = "Squak!")
   puts "#{phrase}"
 end
